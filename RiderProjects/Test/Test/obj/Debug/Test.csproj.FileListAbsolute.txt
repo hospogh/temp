@@ -1,0 +1,6 @@
+/home/hospogh/RiderProjects/Test/Test/bin/Debug/Test.exe
+/home/hospogh/RiderProjects/Test/Test/bin/Debug//Test.pdb
+/home/hospogh/RiderProjects/Test/Test/obj/Debug/Test.csprojResolveAssemblyReference.cache
+/home/hospogh/RiderProjects/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/home/hospogh/RiderProjects/Test/Test/obj/Debug/Test.exe
+/home/hospogh/RiderProjects/Test/Test/obj/Debug/Test.pdb

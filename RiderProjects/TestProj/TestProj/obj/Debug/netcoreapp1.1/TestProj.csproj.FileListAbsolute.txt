@@ -1,0 +1,10 @@
+/home/hospogh/RiderProjects/TestProj/TestProj/bin/Debug/netcoreapp1.1/TestProj.deps.json
+/home/hospogh/RiderProjects/TestProj/TestProj/bin/Debug/netcoreapp1.1/TestProj.runtimeconfig.json
+/home/hospogh/RiderProjects/TestProj/TestProj/bin/Debug/netcoreapp1.1/TestProj.runtimeconfig.dev.json
+/home/hospogh/RiderProjects/TestProj/TestProj/bin/Debug/netcoreapp1.1/TestProj.dll
+/home/hospogh/RiderProjects/TestProj/TestProj/bin/Debug/netcoreapp1.1/TestProj.pdb
+/home/hospogh/RiderProjects/TestProj/TestProj/obj/Debug/netcoreapp1.1/TestProj.csprojResolveAssemblyReference.cache
+/home/hospogh/RiderProjects/TestProj/TestProj/obj/Debug/netcoreapp1.1/TestProj.csproj.CoreCompileInputs.cache
+/home/hospogh/RiderProjects/TestProj/TestProj/obj/Debug/netcoreapp1.1/TestProj.AssemblyInfo.cs
+/home/hospogh/RiderProjects/TestProj/TestProj/obj/Debug/netcoreapp1.1/TestProj.dll
+/home/hospogh/RiderProjects/TestProj/TestProj/obj/Debug/netcoreapp1.1/TestProj.pdb

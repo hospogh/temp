@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/hospogh/RiderProjects/LibraryProj/LibraryProj/LibraryProj.csproj",
+    "projectName": "LibraryProj",
+    "projectPath": "/home/hospogh/RiderProjects/LibraryProj/LibraryProj/LibraryProj.csproj",
+    "outputPath": "/home/hospogh/RiderProjects/LibraryProj/LibraryProj/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "0.9.1"
+        }
+      }
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}
